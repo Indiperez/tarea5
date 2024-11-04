@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api", "api\api.csproj", "{65CD0CDC-F6AA-480C-A0A2-FDBF06DFB81F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiAppWeb", "MiAppWeb\MiAppWeb.csproj", "{4B78C5E7-C5FF-4D92-A45B-7BC08C595324}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65CD0CDC-F6AA-480C-A0A2-FDBF06DFB81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65CD0CDC-F6AA-480C-A0A2-FDBF06DFB81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65CD0CDC-F6AA-480C-A0A2-FDBF06DFB81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65CD0CDC-F6AA-480C-A0A2-FDBF06DFB81F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B78C5E7-C5FF-4D92-A45B-7BC08C595324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B78C5E7-C5FF-4D92-A45B-7BC08C595324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B78C5E7-C5FF-4D92-A45B-7BC08C595324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B78C5E7-C5FF-4D92-A45B-7BC08C595324}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1DE38B8-B1BC-4E00-92DA-AE58BED02B53}
+	EndGlobalSection
+EndGlobal
